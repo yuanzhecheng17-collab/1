@@ -276,10 +276,5 @@ Planned extensions include:
 * Multi-turn conversational research assistant
 * Automatic generation of literature review drafts
 
-## License
-
-This project is released under the MIT License.
-
-````
 
 
